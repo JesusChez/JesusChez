@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @JesusChez
-- ☕ I am working as a UI/UX designer and web developer.
-- 🌱 I’m currently learning Angular
+- ☕ I am working as Front End Developer.
+- 🌱 I’m currently learning React and some other technlogies.
 - 📫 hola@jesuschez.com
