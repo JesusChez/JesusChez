@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jesús Sánchez
-- ☕ I am working as Front End Developer
+- 👋 Hi, I’m Jesús Sánchez Diago
+- ☕ I am working as web developer
 - 🌱 I’m currently learning React and some other technlogies
 - 📫 hola@jesuschez.com
